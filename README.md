@@ -8,6 +8,9 @@ A beginner-friendly machine learning repository focused on building and understa
 
 - Student Performance Prediction (Linear Regression)
 - Iris Flower Classification (Logistic Regression)
+- Find-S Algorithm
+- Candidate Elimination
+- Multiple Linear Regression
 
 
 
@@ -138,3 +141,21 @@ The confusion matrix shows model performance and classification accuracy across 
 
 ## ⭐ Acknowledgment
 This repository is part of my machine learning learning journey and practice.
+
+## 🧠 Project: Concept Learning Algorithms
+
+### 🔹 Find-S Algorithm
+Implements the Find-S algorithm to determine the most specific hypothesis from training data.
+
+### 🔹 Candidate Elimination
+Implements Candidate Elimination algorithm to compute the version space using S and G boundaries.
+
+---
+
+## 📊 Multiple Linear Regression
+
+This project predicts student exam scores using multiple input features.
+
+- Model: Linear Regression (Multiple Features)
+- Dataset: Student Exam Scores
+
